@@ -3,9 +3,7 @@
 
 ```objc
 // 旋转加载动画
-ReplicatorHudView *hudView = [[ReplicatorHudView alloc] initWithCGRect:CGRectMake(200, 200, 50, 50) color:[UIColor          colorWithRed:255/256.f green:57/256.f blue:55/256.f alpha:1]];
-```
-![(ReplicatorHudAnimation)](http://bmob-cdn-15727.b0.upaiyun.com/2018/06/14/ee95bc1140aa4dc18054edfe38c5a529.gif)
+ReplicatorHudView *hudView = [[ReplicatorHudView alloc] initWithCGRect:CGRectMake(200, 200, 50, 50) color:[UIColor          colorWithRed:255/256.f green:57/256.f blue:55/256.f alpha:1]];啊来得及个人看bc1140aa4dc18054edfe38c5a529.gif)
 ```objc
 // 音乐播放中动画
 ReplicatorMusicAnimationView *musicAnimationView = [[ReplicatorMusicAnimationView alloc] initWithCGRect:CGRectMake(100, 100, 30, 40) color:[UIColor redColor]];
